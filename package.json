@@ -1,7 +1,7 @@
 {
   "name": "redux-actions-cache-middleware",
   "version": "1.0.0",
-  "description": "Cache your Redux actions.",
+  "description": "Cache your Redux actions",
   "main": "index.js",
   "author": "Xavier Lefèvre <xavier.lefevre@me.com>",
   "license": "MIT",
