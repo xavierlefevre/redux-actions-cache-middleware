@@ -1,7 +1,7 @@
 import cacheRequestsMiddleware, {
   cacheRequestDictionnary,
   generateCacheKey,
-} from './reduxActionsCacheMiddleware';
+} from '.';
 
 const requestFundsheetStart = {
   type: 'actionTypes.REQUEST.FUNDSHEET.START',
